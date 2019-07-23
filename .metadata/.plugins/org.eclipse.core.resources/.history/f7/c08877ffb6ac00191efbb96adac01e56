@@ -1,0 +1,5 @@
+package com.br.apiRest.models;
+
+public class Mensagem {
+
+}
